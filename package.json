@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.6.2"
+    "@qiita/qiita-cli": "^1.6.2",
+    "jest": "^29.7.0"
   }
 }
